@@ -27,7 +27,7 @@ You can left click green button "Code" to download the zip file or clone the rep
 
 ### Prerequisites
 
-* npm
+  npm
   ```sh
   npm install npm@latest -g
   ```

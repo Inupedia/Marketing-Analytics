@@ -3,9 +3,8 @@ import os
 
 
 def main():
-    df = load_data_frame()
     # transform 'year_birth' to age
-    transform_dob_to_age(df)
+    df = transform_dob_to_age(load_data_frame())
     # transform income to numbers
     transform_income_to_nums(df)
     # replace missing data with average
@@ -24,7 +23,7 @@ def load_data_frame():
 
 def transform_dob_to_age(data_frame):
     data_frame["Year_Birth"] = 2021 - data_frame["Year_Birth"]
-    data_frame.rename(columns={'Year_Birth': 'Age'})
+    return data_frame.rename(columns={"Year_Birth": "Age"})
 
 
 def transform_income_to_nums(data_frame):
