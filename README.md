@@ -7,6 +7,7 @@
   		<ul>
   			<li><a href="#prerequisites">Prerequisites</a></li>
   			<li><a href="#clone">Clone</a></li>
+        <li><a href="#use">Use</a></li>
   		</ul>
   	</li>
     <li>
@@ -22,8 +23,7 @@
 <!-- DOWNLOAD -->
 ## Download
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You can left click green button "Code" to download the zip file or clone the repository as following steps.
 
 ### Prerequisites
 
@@ -34,10 +34,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Clone
 
-1. Clone the repo
+  Clone the repo
    ```sh
    git clone https://github.com/Inupedia/Marketing-Analytics.git
    ```
+
+### Use
+  
+  You can modifed the main.py and output the result
+  ```python
+    python3 main.py
+  ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
