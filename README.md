@@ -23,14 +23,10 @@
 <!-- DOWNLOAD -->
 ## Download
 
-You can left click green button "Code" to download the zip file or clone the repository as following steps.
+You can either left click green button "Code" to download the zip file or clone the repository as following steps.
 
 ### Prerequisites
 
-  npm
-  ```sh
-  npm install npm@latest -g
-  ```
   python
   ```sh
   npm install python
