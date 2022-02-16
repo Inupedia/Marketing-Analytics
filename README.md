@@ -31,6 +31,10 @@ You can left click green button "Code" to download the zip file or clone the rep
   ```sh
   npm install npm@latest -g
   ```
+  python
+  ```sh
+  npm install python
+  ```
 
 ### Clone
 
