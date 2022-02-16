@@ -41,9 +41,9 @@ You can left click green button "Code" to download the zip file or clone the rep
 
 ### Use
   
-  You can modifed the main.py and output the result
+  You can modify the main.py and output the result
   ```python
-    python3 main.py
+  python3 main.py
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
