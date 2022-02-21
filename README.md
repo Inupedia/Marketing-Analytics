@@ -55,7 +55,7 @@ You can either left click green button "Code" to download the zip file or clone 
 ### Data Preparation and Exploatory
 
 - [x] Cleaning a collection of variables, including identifying and handling missing data
-- [ ] Performing initial analyses including distributions, transformations and decompositions on key variables
+- [x] Performing initial analyses including distributions, transformations and decompositions on key variables
 - [x] Merging data that will be important in later analyses
 - [ ] Visualizing relationships between the variables in the dataset and related data
 - [ ] Computing initial regressions to determine strengths of relationships
