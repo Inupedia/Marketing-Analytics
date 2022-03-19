@@ -51,14 +51,29 @@ You can either left click green button "Code" to download the zip file or clone 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+In this project, we investigated Marketing Data to analyze a marketing campaign. The
+dataset includes a variety of information about customers like education, income, marital status,
+children, amount of money spent on different products, and customers’ responses on campaigns.
+Also, the data shows us how customers have done their purchases through different means. The
+dataset includes 2,240 samples of customers behaviors in the last 2 years that have been featured
+by 28 variables. In this project, by analyzing customers’ behaviors in the past, we want to see
+whether they will respond to a future marketing campaign.
 
-### Data Preparation and Exploatory
+
+### Data Preparation and Exploratory
 
 - [x] Cleaning a collection of variables, including identifying and handling missing data
 - [x] Performing initial analyses including distributions, transformations and decompositions on key variables
 - [x] Merging data that will be important in later analyses
-- [ ] Visualizing relationships between the variables in the dataset and related data
-- [ ] Computing initial regressions to determine strengths of relationships
+- [x] Visualizing relationships between the variables in the dataset and related data
+- [x] Computing initial regressions to determine strengths of relationships
+
+### Data Analysis
+
+- [x] Regression Analysis
+- [x] Principal Component Analysis
+- [x] Linear Discriminant Analysis
+- [x] Cluster Analysis
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
